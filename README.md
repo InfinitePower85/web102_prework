@@ -4,7 +4,7 @@ Submitted by: **Andy C**
 
 **Sea Monster Crowdfunder** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **5** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
@@ -24,10 +24,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/kEo2rRm' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LiceCap 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -35,11 +35,12 @@ GIF created with ...
 
 ## Notes
 
-
+Most of the difficulties arose with implementing CSS styling and building in the hover effects of the images. 
+There were small difficulties with javascript syntax, though these issues were resolved rather quickly
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Andy C]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
