@@ -4,6 +4,18 @@
     --brown-rgb: 127 46 23;
   }
 
+  body:has(.card[data-color="blue"]:hover)  > .header, body{
+    background-color: rgb(var(--blue-rgb) / 25%);
+  }
+  
+  body:has(.card[data-color="green"]:hover) > .header, body {
+    background-color: rgb(var(--green-rgb) / 25%);
+  }
+  
+  body:has(.card[data-color="brown"]:hover) > .header, body {
+    background-color: rgb(var(--brown-rgb) / 25%);
+  }
+
   body:has(.card[data-color="blue"]:hover) {
     background-color: rgb(var(--blue-rgb) / 25%);
   }
